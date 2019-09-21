@@ -1,4 +1,3 @@
-# matter-static-web
-a simple static SPA
+# Matter - a simple SPA Static page
 
-To start the application in your local server, type `npm start` on your command line or terminal.
+To see this app, go to [this link](https://jessenreinhart.github.io) or clone the repo and open `index.html` in your browser.
